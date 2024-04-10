@@ -1,3 +1,3 @@
 # chai-aur-react
 
-1st chedck in
+1st check in updated
